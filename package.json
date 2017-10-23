@@ -1,0 +1,29 @@
+{
+  "name": "learning_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazarovits/Learning_Server.git"
+  },
+  "author": "nazarovits",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazarovits/Learning_Server/issues"
+  },
+  "homepage": "https://github.com/nazarovits/Learning_Server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-ejs-layouts": "^2.3.1",
+    "express-session": "^1.15.6",
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0"
+  }
+}
